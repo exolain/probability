@@ -1,0 +1,16 @@
+{
+    "table": [
+        {
+            "season": "winter",
+            "temperature": "cold",
+            "probability": 0.2,
+            "weather": "rain"
+        },
+        {
+            "season": "winter",
+            "temperature": "cold",
+            "probability": 0.15,
+            "weather": "sun"
+        }
+    ]
+}

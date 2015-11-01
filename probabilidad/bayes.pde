@@ -1,0 +1,7 @@
+class Bayes{
+
+  ArrayList probabilityVariables;
+  
+  
+
+}
